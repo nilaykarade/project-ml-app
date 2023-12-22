@@ -1,0 +1,8 @@
+#ignore specific file
+data2.json
+
+#ignore all text files
+*.txt
+
+#ignore all files inder data folder
+/data/
